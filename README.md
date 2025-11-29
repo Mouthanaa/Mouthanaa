@@ -7,7 +7,6 @@
 <div>
 
 <div align = "left">  
----
 
 ### 🌱 I’m Learning Programming  
 I’m currently learning the basics of programming, with a main focus on **C++**.
