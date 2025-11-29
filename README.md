@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Mouthana Nasouh**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="80">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" width="90"/>
 
 ---
 
