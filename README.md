@@ -20,20 +20,14 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0078D4?style=flat&logo=visual-studio&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FFA500?style=flat) 
-
----
-
-## 📊 GitHub Stats
-
-![Mouthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouthanaa&show_icons=true&theme=radical)
+![OOP](https://img.shields.io/badge/OOP-FFA500?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAK...) 
 
 ---
 
 ## Fun Facts
 
 - I love learning new programming languages and exploring new technologies.  
-- Always excited to improve my coding skills!  
+- Always excited to improve my coding skills!   
 
 
 
