@@ -7,8 +7,8 @@
 <div>
 
 <hr></hr>
-
-
+<div align = "left">
+ي
 I am learning programming.  
 Currently, I am learning **C++** from [Programming Advices](https://www.youtube.com/@ProgrammingAdvices) on YouTube.  
 
@@ -28,6 +28,6 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 
 - I love learning new programming languages and exploring new technologies.  
 - Always excited to improve my coding skills!   
-
+</div>
 
 
