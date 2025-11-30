@@ -33,7 +33,7 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 
 ---
 <div align = "center">
-## 😎 Current Mood / GIFs
+## 😎 Current Mood
 
 ![Coding GIF](https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true)
 ---
