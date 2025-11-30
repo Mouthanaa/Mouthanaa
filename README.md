@@ -22,6 +22,7 @@ I’m currently learning the basics of programming, with a main focus on **C++**
 Here are the tools I'm currently learning and using:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FFA500?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAK...)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0078D4?style=flat&logo=visual-studio&logoColor=white)
 
 ---
