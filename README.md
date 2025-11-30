@@ -32,18 +32,13 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 - Banging your head against a wall for one hour burns ~150 calories.  
 
 ---
-
+<div align = "center">
 ## 😎 Current Mood / GIFs
 
 ![Coding GIF](https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true)
-![Exploring Linux GIF](https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true)
-![Message GIF](https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true)
-
 ---
+</div>
 
-## 📫 Connect with me
-
-[![Facebook](https://img.shields.io/badge/Facebook-Mouthana-blue?style=flat&logo=facebook)](https://www.facebook.com/mouthana.abuljebain/)
 </div>
 
 
