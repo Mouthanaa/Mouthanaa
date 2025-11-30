@@ -16,7 +16,7 @@ I’m currently learning the basics of programming, with a main focus on **C++**
 🔗 https://www.youtube.com/@ProgrammingAdvices
 
 
-
+<hr></hr>
 ### 🛠️ Skills & Tools
 Here are the tools I'm currently learning and using:
 
@@ -24,22 +24,23 @@ Here are the tools I'm currently learning and using:
 ![OOP](https://img.shields.io/badge/OOP-FFA500?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAK...)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0078D4?style=flat&logo=visual-studio&logoColor=white)
 
-
+<hr></hr>
 ### 💻 What I'm Working On
 - Building strong fundamentals in C++  
 - Solving exercises and small projects  
 - Improving my logical thinking step by step  
 
 
-
+<hr></hr>
 ### 📫 Reach Me
 - **Facebook:** [Mouthana Abualjabin](https://facebook.com/Mouthana.Ajualjabin)  
 - **GitHub:** https://github.com/Mouthanaa  
 
-
+<hr></hr>
 ### ✨ Small Steps… Big Progress!
 > Consistency beats perfection — every small step matters 💪
 
+<hr></hr>
 ## Fun Facts
 
 - I love learning new programming languages and exploring new technologies.  
