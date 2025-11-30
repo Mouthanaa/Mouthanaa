@@ -31,16 +31,9 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 
 ---
 
-## 🎧 Currently Listening / Vibes
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-
----
-
 ## 📫 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-SPXD-grey?style=flat&logo=telegram)](https://t.me/spxd007)
-[![Facebook](https://img.shields.io/badge/Facebook-Mouthana-blue?style=flat&logo=facebook)](https://www.facebook.com/yourprofile)
+[![Facebook](https://img.shields.io/badge/Facebook-Mouthana-blue?style=flat&logo=facebook)](https://www.facebook.com/mouthana.abuljebain/)
 
 ---
 
