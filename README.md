@@ -22,18 +22,6 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0078D4?style=flat&logo=visual-studio&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FFA500?style=flat)
 
----
-
-## 📊 GitHub Stats
-
-![Mouthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mouthanaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mouthanaa&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with me
-
-[![Facebook](https://img.shields.io/badge/Facebook-Mouthana-blue?style=flat&logo=facebook)](https://www.facebook.com/mouthana.abuljebain/)
 
 ---
 
@@ -51,6 +39,11 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 ![Exploring Linux GIF](https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true)
 ![Message GIF](https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true)
 
+---
+
+## 📫 Connect with me
+
+[![Facebook](https://img.shields.io/badge/Facebook-Mouthana-blue?style=flat&logo=facebook)](https://www.facebook.com/mouthana.abuljebain/)
 </div>
 
 
