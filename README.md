@@ -50,6 +50,11 @@ A more advanced extension with improved logic, additional operations, and better
 **Project 4:** [Bank Extension 2](https://github.com/Mouthanaa/Bank-Extension-2/blob/master/Project%203%20Bank%20Extension%202/Project%204%20Bank%20Extensin%202.cpp)
 
 ---
+### 🔹 ATM System (C++)
+A simple ATM simulation that includes PIN validation, balance inquiry, withdrawals, and deposits.  
+**Project 5:** [ATM Project](https://github.com/Mouthanaa/Atm/blob/master/Project%205%20Atm/Project%205%20Atm.cpp)
+
+---
 
 ## 💡 Fun Facts
 
