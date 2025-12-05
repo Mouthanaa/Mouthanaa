@@ -30,27 +30,23 @@ You can also find me on Facebook:
 
 ### 🔹 Stone Paper Scissors Game (C++)
 A simple console game where the user plays Stone–Paper–Scissors against the computer.  
-**Tech:** C++  
 **Project 1:** [Stone Paper Scissors](https://github.com/Mouthanaa/Stone-Paper-Scissors/blob/master/Stone-Paper-Scissors/Stone-Paper-Scissors.cpp)
 
 ---
 ### 🔹 Bank Management System (C++)
 A basic bank system project that includes account creation, deposits, withdrawals, and balance tracking.  
-**Tech:** C++ | OOP  
 **Project 2:** [Bank-1](https://github.com/Mouthanaa/Bank-1/blob/master/Bank%201/Bank%201.cpp)
 
 ---
 
 ### 🔹 Bank Management System — Extension 1 (C++)
 An extended version of the bank system with more features and improved structure.  
-**Tech:** C++ | OOP  
 **Project 3:** [Bank Extension Project](https://github.com/Mouthanaa/Bank-1-Extension-1-/blob/master/Project_3_Extension_Bank/Project_3_Extension_Bank.cpp)
 
 ---
 
 ### 🔹 Bank Management System — Extension 2 (C++)
-A more advanced extension with improved logic, additional operations, and better code organization.  
-**Tech:** C++ | OOP  
+A more advanced extension with improved logic, additional operations, and better code organization.   
 **Project 4:** [Bank Extension 2](https://github.com/Mouthanaa/Bank-Extension-2/blob/master/Project%203%20Bank%20Extension%202/Project%204%20Bank%20Extensin%202.cpp)
 
 ---
