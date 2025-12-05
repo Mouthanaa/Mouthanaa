@@ -28,6 +28,13 @@ You can also find me on Facebook:
 
 ## 🚀 Featured Projects
 
+### 🔹 Stone Paper Scissors Game (C++)
+A simple console game where the user plays Stone–Paper–Scissors against the computer.  
+**Tech:** C++  
+**Project 1:** [Stone Paper Scissors](https://github.com/Mouthanaa/Stone-Paper-Scissors/blob/master/Stone-Paper-Scissors/Stone-Paper-Scissors.cpp)
+
+---
+---
 ### 🔹 Bank Management System (C++)
 A basic bank system project that includes account creation, deposits, withdrawals, and balance tracking.  
 **Tech:** C++ | OOP  
