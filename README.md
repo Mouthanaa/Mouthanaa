@@ -7,12 +7,14 @@
 <div>
 
 <hr></hr>
+
 <div align = "left">
 
 I am learning programming.  
 Currently, I am learning **C++** from [Programming Advices](https://www.youtube.com/@ProgrammingAdvices) on YouTube.  
 
-You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com/yourprofile)  
+You can also find me on Facebook:  
+[**Mouthana Abualjabin**](https://www.facebook.com/yourprofile)  
 
 ---
 
@@ -22,6 +24,16 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0078D4?style=flat&logo=visual-studio&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FFA500?style=flat)
 
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Bank Management System (C++)
+A basic bank system project that includes account creation, deposits, withdrawals, and balance tracking.  
+**Tech:** C++ | OOP  
+**Repo:** [Bank-1](https://github.com/Mouthanaa/Bank-1)
+
+---
 
 ---
 
@@ -33,12 +45,16 @@ You can also find me on Facebook: [Mouthana Abualjabin](https://www.facebook.com
 
 ---
 <div align = "center">
+
 ## 😎 Current Mood
 
 ![Coding GIF](https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true)
+
 ---
+
 </div>
 
 </div>
+
 
 
