@@ -38,7 +38,7 @@ A simple console game where the user plays Stone–Paper–Scissors against the 
 ### 🔹 Bank Management System (C++)
 A basic bank system project that includes account creation, deposits, withdrawals, and balance tracking.  
 **Tech:** C++ | OOP  
-**Project 2:** [Bank-1](https://github.com/Mouthanaa/Bank-1)
+**Project 2:** [Bank-1](https://github.com/Mouthanaa/Bank-1(https://github.com/Mouthanaa/Bank-1/blob/master/Bank%201/Bank%201.cpp))
 
 ---
 
