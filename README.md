@@ -41,10 +41,17 @@ A basic bank system project that includes account creation, deposits, withdrawal
 
 ---
 
-### 🔹 Bank Management System — Extension (C++)
+### 🔹 Bank Management System — Extension 1 (C++)
 An extended version of the bank system with more features and improved structure.  
 **Tech:** C++ | OOP  
 **Project 3:** [Bank Extension Project](https://github.com/Mouthanaa/Bank-1-Extension-1-/blob/master/Project_3_Extension_Bank/Project_3_Extension_Bank.cpp)
+
+---
+
+### 🔹 Bank Management System — Extension 2 (C++)
+A more advanced extension with improved logic, additional operations, and better code organization.  
+**Tech:** C++ | OOP  
+**Project 4:** [Bank Extension 2](https://github.com/Mouthanaa/Bank-Extension-2/blob/master/Project%203%20Bank%20Extension%202/Project%204%20Bank%20Extensin%202.cpp)
 
 ---
 
