@@ -31,7 +31,7 @@ You can also find me on Facebook:
 ### 🔹 Bank Management System (C++)
 A basic bank system project that includes account creation, deposits, withdrawals, and balance tracking.  
 **Tech:** C++ | OOP  
-**Repo:** [Bank-1](https://github.com/Mouthanaa/Bank-1)
+**Project 2:** [Bank-1](https://github.com/Mouthanaa/Bank-1)
 
 ---
 
