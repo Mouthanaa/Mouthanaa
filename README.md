@@ -66,7 +66,7 @@ A bank system project built with object-oriented programming concepts in C++.
 A simple desktop Tic Tac Toe game built using C# and Windows Forms.  
 The game supports two players, win detection, and a restart feature.
 
-**Project 7:** [Tic-Tac-Toe](PUT_YOUR_REPOSITORY_LINK_HERE)
+**Project 7:** [Tic-Tac-Toe](https://github.com/Mouthanaa/Project-Tic-Tac-Toe)
 
 
 ## 💡 Fun Facts
