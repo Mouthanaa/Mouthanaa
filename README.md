@@ -17,11 +17,12 @@ You can also find me on Facebook:
 [**Mouthana Abualjabin**](https://www.facebook.com/yourprofile)  
 
 ---
-
 ## 🛠 Tools & Skills
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0078D4?style=flat&logo=visual-studio&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=flat)
 ![OOP](https://img.shields.io/badge/OOP-FFA500?style=flat)
 
 ---
@@ -59,6 +60,13 @@ A simple ATM simulation that includes PIN validation, balance inquiry, withdrawa
 ### 🔹 Bank System With OOP (C++)
 A bank system project built with object-oriented programming concepts in C++.  
 **Project 6:** [Bank System With OOP](https://github.com/Mouthanaa/Bank-System-With-OOP/tree/master/Bank%20With%20OOP)
+
+---
+### 🔹 Tic Tac Toe Game (C# - Windows Forms)
+A simple desktop Tic Tac Toe game built using C# and Windows Forms.  
+The game supports two players, win detection, and a restart feature.
+
+**Project 7:** [Tic-Tac-Toe](PUT_YOUR_REPOSITORY_LINK_HERE)
 
 
 ## 💡 Fun Facts
